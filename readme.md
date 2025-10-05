@@ -9,3 +9,6 @@
      npm start DELETE products 2
 
      npm start PUT products 3  remera 666 indumentaria
+
+**uso de spread operator en traerProducto()**
+**uso de destructuring en PUT dentro del switch/case**
